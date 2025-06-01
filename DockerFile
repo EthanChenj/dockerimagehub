@@ -14,5 +14,5 @@ RUN pip install flask
 EXPOSE 5000
 
 # Run app.py when container launches
-CMD ["python", "app,py"]
+CMD ["python", "app.py"]
 
